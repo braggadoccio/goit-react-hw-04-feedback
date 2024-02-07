@@ -1,0 +1,13 @@
+.optionButton {
+  border-radius: 5px;
+  border: 1px solid gainsboro;
+  height: 30px;
+  width: 80px;
+  background-color: bisque;
+  margin-right: 10px;
+  cursor: pointer;
+  font-weight: bold;
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}
